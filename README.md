@@ -48,20 +48,8 @@ This skill solves all four by enforcing intelligent question-asking upfront.
 
 Or if you manage skills as part of a custom Claude installation, add to your `available_skills` config.
 
-## GitHub Topics
+## This tool is useful for:
 
-Add these topics to your repo for discoverability:
-- `claude`
-- `claude-skill`
-- `ai`
-- `prompt-engineering`
-- `elicitation`
-- `clarifying-questions`
-- `workflow`
-
-## Keywords
-
-For search engines and skill registries, this tool is useful for:
 - Clarifying ambiguous prompts
 - Multi-turn question generation
 - Reducing AI revision cycles
